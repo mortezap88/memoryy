@@ -1,0 +1,6 @@
+{
+  "name": "FlashRecall",
+  "description": "Spaced repetition flashcards with spelling, pronunciation, image recognition, and dual-provider Claude Haiku 5.5 (1xAI & Houshyar24) for TTT and Gemini 3.5 Flash-Lite for STT with low thinking budget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
